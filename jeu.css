@@ -1,0 +1,84 @@
+body{
+	text-align:center;
+	margin-top:100px;
+background-image: url("tt.png");
+background-size: cover;
+
+}
+.case{
+	width:70px;
+	height:70px;
+	border-radius: 50px;
+	text-align:center;
+	font-size:50px;
+  cursor:none;
+  margin-top:12px;
+  margin-left:9px;
+  box-shadow: 0 10px #272822;
+ 	background-color:#A8ADB0;
+  border:#5F5C57;
+	
+}
+
+.btn:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+.case9{
+  width:70px;
+  height:70px;
+  border-radius: 50px;
+  text-align:center;
+  font-size:50px;
+  cursor:none;
+  background-color:#2BADDF;
+  border:#5F5C57;
+  box-shadow: 0 10px #272822;
+  
+}
+.num{
+  width:50px;
+  height:50px;
+  font-size:40px;
+  text-align:center;
+  background-color:#2BADDF;
+  border:#5F5C57;
+  cursor:none;
+  border-radius: 50px;
+  box-shadow: 0 10px #272822;
+}
+.numero{
+  width:200px;
+  height:50px;
+  font-size:40px;
+  margin-bottom:10px;
+  border-radius: 50px;
+  box-shadow: 0 10px #272822;
+ background-color: rgba(255,255 , 255, 0.5);
+ border:black;
+}
+.p{
+  display: block;
+  font-family: Montserrat, sans-serif;
+  font-size: 40px;
+  font-weight:bold;
+  background: linear-gradient(90deg, #456990, #e5446d, #ffe66d 15%);
+  background-size: 600% 600%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.btn{
+  height:50px;
+  font-size:40px;
+  text-align:center;
+  margin-left:10px;
+  text-align: center;
+  color:#fff;
+  border: 0px solid #eee;
+  border-radius: 20px;
+  background-color: rgba(255,255 , 255, 0.5);
+  cursor: pointer;
+  box-shadow: 0 7px #272822;
+
+}
